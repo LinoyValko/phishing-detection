@@ -3,8 +3,10 @@
 
 ## Project Description
 
-This project focuses on building a robust **data preprocessing pipeline** for a phishing website detection task.  
-The pipeline prepares the data for machine learning classification by applying various preprocessing steps such as:
+This project was completed as part of the **Cybersecurity for Data Science** course.  
+The goal was to build a **robust preprocessing pipeline** to prepare a real-world dataset for phishing website detection using machine learning techniques.
+
+The notebook demonstrates key preprocessing steps including:
 
 - Missing value handling
 - Label encoding & one-hot encoding
